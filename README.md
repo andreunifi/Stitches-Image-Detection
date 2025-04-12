@@ -1,12 +1,12 @@
-# Stitches - v2 Dataset (2024-07-22)
+# Stitches - v2 Dataset 
 
 ## 📖 Overview
 
-The **Stitches - v2 Dataset** is a publicly available image dataset designed for detecting and analyzing stitches in grayscale images. It contains **501 images** annotated in **COCO format**, making it ideal for computer vision tasks like object detection and segmentation. The dataset is divided into three subsets: **train**, **test**, and **valid** for efficient model training, evaluation, and validation.
+The **Stitches Dataset** is a publicly available image dataset designed for detecting and analyzing stitches in grayscale images. It contains **501 images** annotated in **COCO format**, making it ideal for computer vision tasks like object detection and segmentation. The dataset is divided into three subsets: **train**, **test**, and **valid** for efficient model training, evaluation, and validation.
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
 - **Total Images**: 501 grayscale images.
 - **Annotations**: Provided in the standard **COCO format**.
@@ -19,7 +19,7 @@ The **Stitches - v2 Dataset** is a publicly available image dataset designed for
 
 ---
 
-## 🛠 Dataset Preparation
+## Dataset Preparation
 
 ### **Preprocessing Steps**
 
